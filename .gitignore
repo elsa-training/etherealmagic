@@ -1,0 +1,7 @@
+.terraform/
+darkmagic/
+pixiemagic/
+volumes/
+.terraform.*
+*tfstate*
+*plan
